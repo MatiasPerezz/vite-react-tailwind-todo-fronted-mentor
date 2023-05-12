@@ -2,4 +2,4 @@
 
 - [preview app] (https://react-todo-vite-tailwind.netlify.app/)
 
--[FrontendMentor] (https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW)
+- [FrontendMentor] (https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW)
